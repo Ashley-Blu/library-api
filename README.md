@@ -103,7 +103,7 @@ DELETE  /books/:id
 ---
 
 ## Screenshots
-![Create Author](screenshots/create-author.png)
+![Project Structure](screenshots/create-author.png)
 ![Get Authors](screenshots/get-authors.png)
 ![Create Book](screenshots/create-book.png)
 ![Get Book](screenshots/get-book.png)
