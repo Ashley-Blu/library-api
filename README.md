@@ -105,13 +105,13 @@ DELETE  /books/:id
 ## Screenshots
 
 ### Create Author
-![Create Author](screenshots/create-author.png)
+![Create Author](./screenshots/create-author.png)
 
 ### Get Authors
-![Get Authors](screenshots/get-authors.png)
+![Get Authors](./screenshots/get-authors.png)
 
 ### Create Book
-![Create Book](screenshots/create-book.png)
+![Create Book](./screenshots/create-book.png)
 
 ### Get Book
-![Get Book](screenshots/get-book.png)
+![Get Book](./screenshots/get-book.png)
